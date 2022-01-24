@@ -7,12 +7,13 @@ body{
 }
 
 h1 {
-    color:#fdfdfd;
+    color:#fafafa;
 }
 
 .btn{
     margin: 10px;
-    background-color: rgb(161, 161, 199);
+    background-color: rgb(179 18 206 / 81%);
+    color:aliceblue;
     transition: 1s;
     width: flex;
     width: auto;
@@ -22,5 +23,5 @@ h1 {
 
 .btn:hover{
     background-color: #090909;
-    color: #0deded;
+    color: cyan;
 }
