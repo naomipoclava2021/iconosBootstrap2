@@ -1,0 +1,26 @@
+body{
+    background-color: #2b2b2b;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 250px;
+    display: inline-block;   
+}
+
+h1 {
+    color:#fdfdfd;
+}
+
+.btn{
+    margin: 10px;
+    background-color: rgb(161, 161, 199);
+    transition: 1s;
+    width: flex;
+    width: auto;
+    height: 40px;
+    
+}
+
+.btn:hover{
+    background-color: #090909;
+    color: #0deded;
+}
